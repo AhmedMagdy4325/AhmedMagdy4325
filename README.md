@@ -10,7 +10,9 @@ Computer Science student from Egypt, learning to build front-end applications th
 
 ## Tech
 **Languages:** TypeScript, JavaScript, HTML, CSS
+
 **Libraries and frameworks:** React, Redux Toolkit, React Router, Tailwind CSS, i18next
+
 **Tools:** Vite, Git, GitHub
 
 ## Looking for
